@@ -122,7 +122,7 @@ a.box:focus-visible .front { outline: 2px solid var(--signal); outline-offset: 4
 .side .v { flex: 1; writing-mode: vertical-rl; display: flex; justify-content: space-between; align-items: center; padding: 18px 0; margin: 0 auto; }
 .side .band { padding: 0; justify-content: center; }
 .front .hd { display: flex; justify-content: space-between; align-items: flex-start; padding: 18px 18px 0; }
-.front .nm { font-size: 27px; font-weight: 500; letter-spacing: -.03em; line-height: 1; }
+.front .nm { margin: 0; font-size: 27px; font-weight: 500; letter-spacing: -.03em; line-height: 1; }
 .front .sub { display: flex; gap: 10px; align-items: baseline; padding: 6px 18px 0; }
 .front .art { flex: 1; display: grid; place-items: center; padding: 0 8px; min-height: 0; }
 .front .art img { width: 100%; height: auto; }

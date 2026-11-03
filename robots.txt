@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nqtn.me/sitemap.xml
